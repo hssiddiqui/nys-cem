@@ -11,8 +11,6 @@ Data and results for the study 'Prioritizing heating and transport electrificati
 
 `model_dual_trans_constrs.py`: The file used to create a version of the NYS-CEM that uses dual transmission constraints to govern interregional transmission. 
 
-`model_dual_trans_vars.py`: The file used to create a version of the NYS-CEM that uses dual transmission variables to govern interregional transmission. 
-
 `params.yaml`: The file that holds the NYS-CEM and Gurobi solver parameters.
 
 `utils.py`: The file that contains multiple helper functions, including those that load the model parameters, the time-series data, and process the results.  
